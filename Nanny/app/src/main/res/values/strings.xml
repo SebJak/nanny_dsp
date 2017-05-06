@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Nanny</string>
+    <string name="btn_detector">Detector</string>
+    <string name="btn_receiver">Client</string>
 </resources>
